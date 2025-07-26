@@ -1,0 +1,61 @@
+BIOS
+Dolphin
+Games
+Games/Nintendo - Game Boy
+Games/Amstrad - GX4000
+Games/Atari - 2600
+Games/Atari - 400-800-1200XL
+Games/Atari - 5200
+Games/Atari - 7800
+Games/Atari - Jaguar
+Games/Atari - Lynx
+Games/DOS
+Games/FBNeo - Arcade Games
+Games/Mattel - Intellivision
+Games/Microsoft - MSX - MSX2 - MSX2P - MSX Turbo R
+Games/Microsoft - XBOX 360
+Games/NEC - PC Engine - TurboGrafx 16
+Games/NEC - PC Engine CD - TurboGrafx-CD
+Games/NEC - PC Engine SuperGrafx
+Games/Nintendo - Family Computer Disk System
+Games/Nintendo - Game Boy Advance
+Games/Nintendo - Game Boy Color
+Games/Nintendo - GameCube
+Games/Nintendo - Nintendo 64
+Games/Nintendo - Nintendo DS
+Games/Nintendo - Nintendo Entertainment System
+Games/Nintendo - Satellaview
+Games/Nintendo - Super Nintendo Entertainment System
+Games/Nintendo - Wii
+Games/Nintendo - Wii/Mario Kart Wii (USA) (En,Fr,Es).rvz
+Games/Nintendo - Wii/Super Mario All-Stars (USA).rvz
+Games/Nintendo - Wii/Super Smash Bros. Brawl (USA) (Rev 2).rvz
+Games/Nintendo - Wii/Tetris Party Deluxe (USA) (En,Fr,Es).rvz
+Games/Nintendo - Wii/text.txt
+Games/Sega - 32X
+Games/Sega - Dreamcast
+Games/Sega - Dreamcast/Gauntlet Legends (USA).chd
+Games/Sega - Game Gear
+Games/Sega - Master System - Mark III
+Games/Sega - Mega Drive - Genesis
+Games/Sega - Mega-CD - Sega CD
+Games/Sega - Saturn
+Games/Sony - PlayStation
+Games/Sony - PlayStation 2
+Games/Sony - PlayStation Portable
+RetroArch
+RetroArch/assets
+RetroArch/cheats
+RetroArch/config
+RetroArch/info
+RetroArch/logs
+RetroArch/overlays
+RetroArch/playlists
+RetroArch/saves
+RetroArch/shaders
+RetroArch/states
+RetroArch/system
+RetroArch/system/dolphin-emu
+RetroArch/system/pcsx2
+RetroArch/thumbnails
+Xenia
